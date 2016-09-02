@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class NewTest {
   @Test
   public void f() {
-	  System.out.println("test for facebook new123");
+	  System.out.println("test for facebook ");
 	  WebDriver driver=new FirefoxDriver();
 	  System.out.println("open browser");
 	  driver.get("http://www.facebook.com");
